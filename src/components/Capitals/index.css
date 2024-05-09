@@ -1,0 +1,42 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+  height: 100vh;
+}
+.capitals-app {
+  background-color: #f8fafc;
+  padding: 30px;
+  width: 40%;
+  border-radius: 8px;
+  font-family: roboto;
+}
+.heading {
+  color: #323f4b;
+  font-weight: 500;
+}
+.select-container {
+  display: flex;
+  align-items: center;
+}
+.capital-select {
+  padding: 5px 15px;
+  font-weight: 600;
+  outline: none;
+  border-color: #cbd2d9;
+  border-radius: 4px;
+}
+.options {
+  color: #000000;
+}
+.question {
+  padding-left: 10px;
+  font-size: 14px;
+  color: #1e293b;
+}
+.country {
+  color: #323f4b;
+  font-weight: 600;
+  font-size: 20px;
+}
